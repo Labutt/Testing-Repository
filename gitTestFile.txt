@@ -1,3 +1,5 @@
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-Lorem ipsum Lorem --changed words-- ipsum Lorem ipsum Lorem ipsum 
-A new line
+Lorem ipsum Lorem HelloWorld! Lorem ipsum Lorem ipsum Lorem ipsum
+dolor sit amet, consectetur adipiscing elit
+dolor sit amet, consectetur adipiscing elit
+dolor sit amet, consectetur adipiscing elit
