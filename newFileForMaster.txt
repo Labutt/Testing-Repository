@@ -1,0 +1,1 @@
+A new and amazing file for testing out Git!
